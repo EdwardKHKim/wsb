@@ -1,7 +1,10 @@
 # r/wallstreetbets Ticker Price Correlation
+wsb is 
 ## Example
-![WISH_stock](WISH_stock.png)
+1. Generate a frequency graph of the top 25 stocks that were included in reddit and subreddit posts in a week. WISH was the most appeared stock from June 21, 2021 to June 25, 2021 in r/wallstreetbets.
 ![wsb_stock_frequency_weekly](wsb_stock_frequency_weekly.png)
+2. During June 21, 2021 to June 25, 2021 where WISH appeared more than any other stock, WISH has increased in price. 
+![WISH_stock](WISH_stock.png)
 ## Dependencies
 - [Pandas](https://pandas.pydata.org/)
 - [Praw](https://praw.readthedocs.io/en/latest/#)
