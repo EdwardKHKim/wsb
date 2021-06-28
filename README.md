@@ -1,5 +1,5 @@
 # r/wallstreetbets Ticker Price Correlation
-## Overview 
+## Example
 
 ## Dependencies
 - [Pandas](https://pandas.pydata.org/)
@@ -9,7 +9,7 @@
 - [Alpha Vantage](https://www.alphavantage.co/)
 
 ## Reddit Application API
-Change value of ```client_id```, ```client_secret```, ```user_agent```, ```username``` and ```password```.
+Change value of ```client_id:```, ```client_secret:```, ```user_agent:```, ```username:``` and ```password:```.
 ```
 reddit_application = praw.Reddit(client_id='GENERAL API KEY', 
                          client_secret='SECRET API KEY', 
@@ -19,7 +19,7 @@ reddit_application = praw.Reddit(client_id='GENERAL API KEY',
 ```
 
 ## Alpha Vantage API
-Change value of ```key``` and ```symbol```.
+Change value of ```key:``` and ```symbol:```.
 ```
 config = {
     "alpha_vantage": {
