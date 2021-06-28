@@ -1,6 +1,6 @@
 # r/wallstreetbets Ticker Price Correlation
 ## Example
-
+![d](wsb_stock_frequency_weekly.png)
 ## Dependencies
 - [Pandas](https://pandas.pydata.org/)
 - [Praw](https://praw.readthedocs.io/en/latest/#)
