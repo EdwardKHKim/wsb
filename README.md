@@ -1,5 +1,5 @@
 # r/wallstreetbets Ticker Price Correlation
-wsb is a python script that generates the top 25 stocks by frequency included in reddit and subreddit posts within r/wallstreetbets and generates a graph of the stock. 
+wsb is a python script that generates the top 25 stocks by frequency included in reddit and subreddit posts within r/wallstreetbets and generates a graph of the stock. The graph generation is a modified code from Alpha Academy.
 ## Example
 1. Generate a frequency graph of the top 25 stocks that were included in reddit and subreddit posts in a week. WISH was the most appeared stock from June 21, 2021 to June 25, 2021 in r/wallstreetbets.
 ![wsb_stock_frequency_weekly](wsb_stock_frequency_weekly.png)
